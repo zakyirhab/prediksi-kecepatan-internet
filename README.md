@@ -1,7 +1,3 @@
-# Panduan Pengguna
-
-Selamat datang di Panduan Pengguna!
-
 ## Pendahuluan
 
 Panduan ini dirancang untuk membantu Anda memahami cara menggunakan aplikasi dengan efisien.
